@@ -17,7 +17,7 @@ TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
 
 # Discord Webhook
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1441483399574454475/ks1cs8lk95Fxc7Kv7nSZMQMGYIkRDHfy2yqR8uiniTViytMIjwZkHxbhsRO7Y1Nf28-e"
 
 # Email (SMTP)
 EMAIL_USER = "your_email@gmail.com"
@@ -75,9 +75,9 @@ def notify_email(subject, body):
 
 def notify_all(message):
     log(message)
-    notify_telegram(message)
+    #notify_telegram(message)
     notify_discord(message)
-    notify_email("Git Auto Push Report", message)
+    #notify_email("Git Auto Push Report", message)
 
 # ================================================
 # Git Functions

@@ -1570,3 +1570,183 @@ branch.main.merge=refs/heads/main
 2025-11-21 23:08:15,724 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\python\webcamview
 2025-11-21 23:08:16,148 - 
 \u27a1\ufe0f Checking repository: I:\pythonprj\testprgs
+2025-11-21 23:08:16,277 - \u2713 No changes found
+2025-11-21 23:08:17,058 - 
+\u27a1\ufe0f Checking repository: I:\pythonprj\gitautopush
+2025-11-21 23:08:17,136 - \U0001f4dd Changes found \u2192 committing...
+2025-11-21 23:08:17,552 - \U0001f4e4 Pushing to remote...
+2025-11-21 23:08:19,419 - \u2714 Successfully pushed changes from: I:\pythonprj\gitautopush
+2025-11-21 23:08:19,438 - 
+\u27a1\ufe0f Checking repository: I:\documents\NetBeansProjects\patholab
+2025-11-21 23:08:19,474 - \u26d4 Not a valid Git repository, skipping: I:\documents\NetBeansProjects\patholab
+2025-11-21 23:08:19,479 - 
+\u27a1\ufe0f Checking repository: I:\electron\employ-track-map-view
+2025-11-21 23:08:19,517 - \u26d4 Not a valid Git repository, skipping: I:\electron\employ-track-map-view
+2025-11-21 23:08:20,009 - 
+\U0001f50d Scanning drive: J:\
+2025-11-21 23:08:20,308 - 
+\u27a1\ufe0f Checking repository: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal
+2025-11-21 23:08:20,344 - \u26d4 Not a valid Git repository, skipping: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal
+2025-11-21 23:08:20,350 - 
+\u27a1\ufe0f Checking repository: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal-docker
+2025-11-21 23:08:20,388 - \u26d4 Not a valid Git repository, skipping: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal-docker
+2025-11-21 23:08:20,568 - 
+\u27a1\ufe0f Checking repository: J:\webapps\api
+2025-11-21 23:08:20,606 - \u26d4 Not a valid Git repository, skipping: J:\webapps\api
+2025-11-21 23:08:20,679 - 
+\u27a1\ufe0f Checking repository: J:\webapps\EcomAPI
+2025-11-21 23:08:20,716 - \u26d4 Not a valid Git repository, skipping: J:\webapps\EcomAPI
+2025-11-21 23:08:20,718 - 
+\u27a1\ufe0f Checking repository: J:\webapps\enlite\enlite\enlite
+2025-11-21 23:08:20,759 - \u26d4 Not a valid Git repository, skipping: J:\webapps\enlite\enlite\enlite
+2025-11-21 23:08:20,858 - 
+==============================
+2025-11-21 23:08:20,858 - \U0001f3c1 Completed scanning all drives
+
+2025-11-21 23:08:20,858 - ==============================
+
+2025-11-21 23:16:38,989 - ===== Git Auto Push Started =====
+2025-11-21 23:16:39,755 - === Showing Git Credential Configuration ===
+2025-11-21 23:16:40,441 - --- Global Config ---
+user.email=acharyaabinash.1973@gmail.com
+user.name=Abinash Acharya
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+core.editor="C:\Users\ABINASH\AppData\Local\Programs\Microsoft VS Code Insiders\bin\code-insiders" --wait
+credential.https://huggingface.co.provider=generic
+safe.directory=D:/python/huging-face/model/surreal-ai-generator
+safe.directory=I:/pythonprj/testprgs/inv-olmocr-api
+safe.directory=I:/pythonprj/gitautopush
+safe.directory=I:/pythonprj/testprgs
+safe.directory=D:/Visual-Studio-Projects/LocaApiServerAccess
+safe.directory=D:/Visual-Studio-Projects/ImageRecieverHost
+safe.directory=D:/Visual-Studio-Projects/NewEnlite
+2025-11-21 23:16:41,364 - --- System Config ---
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=true
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+2025-11-21 23:16:42,276 - --- Local Config ---
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=https://github.com/AbinashAcharya1973/autopush.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+2025-11-21 23:16:43,031 - === End Git Config ===
+2025-11-21 23:16:43,715 - \U0001f50d Scanning drive: D:\
+2025-11-21 23:16:44,535 - \u2192 Checking repo: D:\reactjs\nexus-admin
+2025-11-21 23:16:45,328 - \u2718 Invalid or missing remote in D:\reactjs\nexus-admin. Skipping.
+2025-11-21 23:16:46,060 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\allishan\Allishan
+2025-11-21 23:16:46,751 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\allishan\Allishan. Skipping.
+2025-11-21 23:16:47,408 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\api
+2025-11-21 23:16:48,100 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\api. Skipping.
+2025-11-21 23:16:48,801 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\EcomAPI
+2025-11-21 23:16:49,547 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\EcomAPI. Skipping.
+2025-11-21 23:16:50,224 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\enlite\enlite\enlite
+2025-11-21 23:16:50,964 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\enlite\enlite\enlite. Skipping.
+2025-11-21 23:16:51,654 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\filemanager-admin
+2025-11-21 23:16:52,318 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\filemanager-admin. Skipping.
+2025-11-21 23:16:52,993 - \u2192 Checking repo: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\a1security
+2025-11-21 23:16:53,688 - \u2718 Invalid or missing remote in D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\a1security. Skipping.
+2025-11-21 23:16:54,695 - \u2192 Checking repo: D:\HMS - Kolkata1
+2025-11-21 23:16:55,372 - \u2718 Invalid or missing remote in D:\HMS - Kolkata1. Skipping.
+2025-11-21 23:16:56,344 - \u2192 Checking repo: D:\EnLite\EnliteFinal
+2025-11-21 23:16:57,007 - \u2718 Invalid or missing remote in D:\EnLite\EnliteFinal. Skipping.
+2025-11-21 23:16:57,682 - \u2192 Checking repo: D:\EnLite\Enlite
+2025-11-21 23:16:58,451 - \u2718 Invalid or missing remote in D:\EnLite\Enlite. Skipping.
+2025-11-21 23:16:59,098 - \u2192 Checking repo: D:\EnLite\websync
+2025-11-21 23:17:00,025 - \u2718 Invalid or missing remote in D:\EnLite\websync. Skipping.
+2025-11-21 23:17:01,366 - \u2192 Checking repo: D:\androidprjs\Actronix
+2025-11-21 23:17:02,155 - \u2718 Invalid or missing remote in D:\androidprjs\Actronix. Skipping.
+2025-11-21 23:17:02,951 - \u2192 Checking repo: D:\androidprjs\NexusTrack
+2025-11-21 23:17:03,655 - \u2718 Invalid or missing remote in D:\androidprjs\NexusTrack. Skipping.
+2025-11-21 23:17:05,513 - \u2192 Checking repo: D:\Visual-Studio-Projects\ctkartsync
+2025-11-21 23:17:06,260 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\ctkartsync. Skipping.
+2025-11-21 23:17:06,961 - \u2192 Checking repo: D:\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 23:17:07,665 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\EnliteApiServer\AccessApiServer. Skipping.
+2025-11-21 23:17:08,351 - \u2192 Checking repo: D:\Visual-Studio-Projects\Face-Detection
+2025-11-21 23:17:09,123 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\Face-Detection. Skipping.
+2025-11-21 23:17:09,913 - \u2192 Checking repo: D:\Visual-Studio-Projects\Face-Detection2
+2025-11-21 23:17:10,763 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\Face-Detection2. Skipping.
+2025-11-21 23:17:11,587 - \u2192 Checking repo: D:\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 23:17:12,248 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\kutuprojects\FaceRecognition. Skipping.
+2025-11-21 23:17:13,007 - \u2192 Checking repo: D:\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 23:17:13,693 - \u2718 Invalid or missing remote in D:\Visual-Studio-Projects\WpfCameraAForge. Skipping.
+2025-11-21 23:17:14,418 - \u2192 Checking repo: D:\Visual-Studio-Projects\NewEnlite
+2025-11-21 23:17:15,182 - \u2713 No changes in D:\Visual-Studio-Projects\NewEnlite
+2025-11-21 23:17:16,044 - \u2192 Checking repo: D:\Visual-Studio-Projects\LocaApiServerAccess
+2025-11-21 23:17:16,774 - \u2713 No changes in D:\Visual-Studio-Projects\LocaApiServerAccess
+2025-11-21 23:17:17,408 - \u2192 Checking repo: D:\Visual-Studio-Projects\ImageRecieverHost
+2025-11-21 23:17:18,121 - \u2713 No changes in D:\Visual-Studio-Projects\ImageRecieverHost
+2025-11-21 23:17:18,775 - \u2192 Checking repo: D:\python\gstRPA\simple-captcha-solver
+2025-11-21 23:17:19,414 - \u2718 Invalid or missing remote in D:\python\gstRPA\simple-captcha-solver. Skipping.
+2025-11-21 23:17:20,096 - \u2192 Checking repo: D:\python\ocr_invoice_pipeline
+2025-11-21 23:17:20,734 - \u2718 Invalid or missing remote in D:\python\ocr_invoice_pipeline. Skipping.
+2025-11-21 23:17:21,399 - \u2192 Checking repo: D:\python\webcamview
+2025-11-21 23:17:22,097 - \u2718 Invalid or missing remote in D:\python\webcamview. Skipping.
+2025-11-21 23:17:22,793 - \u2192 Checking repo: D:\python\huging-face\model\surreal-ai-generator
+2025-11-21 23:17:23,494 - \u2713 No changes in D:\python\huging-face\model\surreal-ai-generator
+2025-11-21 23:17:24,154 - \u2192 Checking repo: D:\electron\nexus-admin
+2025-11-21 23:17:24,795 - \u2718 Invalid or missing remote in D:\electron\nexus-admin. Skipping.
+2025-11-21 23:17:26,926 - \U0001f50d Scanning drive: F:\
+2025-11-21 23:17:28,027 - \U0001f50d Scanning drive: I:\
+2025-11-21 23:17:28,677 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\AdityaA1\A1SECURITY\abco
+2025-11-21 23:17:29,318 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\AdityaA1\A1SECURITY\abco. Skipping.
+2025-11-21 23:17:30,026 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline
+2025-11-21 23:17:30,707 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline. Skipping.
+2025-11-21 23:17:31,365 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline - Copy
+2025-11-21 23:17:32,106 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline - Copy. Skipping.
+2025-11-21 23:17:32,712 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Allishan
+2025-11-21 23:17:33,362 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Allishan. Skipping.
+2025-11-21 23:17:34,698 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\consornac\api\vendor\maatwebsite\excel
+2025-11-21 23:17:35,352 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\consornac\api\vendor\maatwebsite\excel. Skipping.
+2025-11-21 23:17:36,035 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\consornac\api\vendor\phpoffice\phpexcel
+2025-11-21 23:17:36,672 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\consornac\api\vendor\phpoffice\phpexcel. Skipping.
+2025-11-21 23:17:38,765 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\webapps\allishan\Allishan
+2025-11-21 23:17:39,444 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\webapps\allishan\Allishan. Skipping.
+2025-11-21 23:17:40,255 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\webapps\api
+2025-11-21 23:17:40,942 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\webapps\api. Skipping.
+2025-11-21 23:17:41,657 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\webapps\EcomAPI
+2025-11-21 23:17:42,447 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\webapps\EcomAPI. Skipping.
+2025-11-21 23:17:43,074 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\webapps\enlite\enlite\enlite
+2025-11-21 23:17:43,743 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\webapps\enlite\enlite\enlite. Skipping.
+2025-11-21 23:17:44,575 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\ctkartsync
+2025-11-21 23:17:45,264 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\ctkartsync. Skipping.
+2025-11-21 23:17:46,248 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 23:17:46,916 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\EnliteApiServer\AccessApiServer. Skipping.
+2025-11-21 23:17:47,544 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection
+2025-11-21 23:17:48,203 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection. Skipping.
+2025-11-21 23:17:48,847 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection2
+2025-11-21 23:17:49,483 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection2. Skipping.
+2025-11-21 23:17:50,348 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 23:17:51,153 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\kutuprojects\FaceRecognition. Skipping.
+2025-11-21 23:17:52,321 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 23:17:52,983 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Visual-Studio-Projects\WpfCameraAForge. Skipping.
+2025-11-21 23:17:53,601 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Enlite\Enlite
+2025-11-21 23:17:54,328 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Enlite\Enlite. Skipping.
+2025-11-21 23:17:54,949 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\Enlite\websync
+2025-11-21 23:17:55,634 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\Enlite\websync. Skipping.
+2025-11-21 23:17:56,312 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\HMS - Kolkata1
+2025-11-21 23:17:57,012 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\HMS - Kolkata1. Skipping.
+2025-11-21 23:17:57,663 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\python\gstRPA\simple-captcha-solver
+2025-11-21 23:17:58,447 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\python\gstRPA\simple-captcha-solver. Skipping.
+2025-11-21 23:17:59,063 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\python\ocr_invoice_pipeline
+2025-11-21 23:17:59,778 - \u2718 Invalid or missing remote in I:\desktop_D-drive(ssd)\python\ocr_invoice_pipeline. Skipping.
+2025-11-21 23:18:00,445 - \u2192 Checking repo: I:\desktop_D-drive(ssd)\python\webcamview
