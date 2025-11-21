@@ -991,3 +991,190 @@ branch.main.merge=refs/heads/main
 \u27a1\ufe0f Checking repository: I:\pythonprj\testprgs
 2025-11-21 22:10:27,917 - \U0001f4dd Changes found \u2192 committing...
 2025-11-21 22:10:29,467 - \U0001f4e4 Pushing to remote...
+2025-11-21 22:11:04,119 - \u2714 Successfully pushed changes from: I:\pythonprj\testprgs
+2025-11-21 22:11:04,922 - 
+\u27a1\ufe0f Checking repository: I:\pythonprj\gitautopush
+2025-11-21 22:11:05,005 - \U0001f4dd Changes found \u2192 committing...
+2025-11-21 22:11:05,434 - \U0001f4e4 Pushing to remote...
+2025-11-21 22:11:07,767 - \u2714 Successfully pushed changes from: I:\pythonprj\gitautopush
+2025-11-21 22:11:07,786 - 
+\u27a1\ufe0f Checking repository: I:\documents\NetBeansProjects\patholab
+2025-11-21 22:11:07,829 - \u26d4 Not a valid Git repository, skipping: I:\documents\NetBeansProjects\patholab
+2025-11-21 22:11:07,837 - 
+\u27a1\ufe0f Checking repository: I:\electron\employ-track-map-view
+2025-11-21 22:11:07,880 - \u26d4 Not a valid Git repository, skipping: I:\electron\employ-track-map-view
+2025-11-21 22:11:08,373 - 
+\U0001f50d Scanning drive: J:\
+2025-11-21 22:11:08,704 - 
+\u27a1\ufe0f Checking repository: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal
+2025-11-21 22:11:08,744 - \u26d4 Not a valid Git repository, skipping: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal
+2025-11-21 22:11:08,750 - 
+\u27a1\ufe0f Checking repository: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal-docker
+2025-11-21 22:11:08,794 - \u26d4 Not a valid Git repository, skipping: J:\restored\SpeedRecovery\01 New Volume (H ) Normal files  (1175711 files)\found.000\dir0155.chk\EnliteFinal-docker
+2025-11-21 22:11:08,979 - 
+\u27a1\ufe0f Checking repository: J:\webapps\api
+2025-11-21 22:11:09,021 - \u26d4 Not a valid Git repository, skipping: J:\webapps\api
+2025-11-21 22:11:09,096 - 
+\u27a1\ufe0f Checking repository: J:\webapps\EcomAPI
+2025-11-21 22:11:09,138 - \u26d4 Not a valid Git repository, skipping: J:\webapps\EcomAPI
+2025-11-21 22:11:09,140 - 
+\u27a1\ufe0f Checking repository: J:\webapps\enlite\enlite\enlite
+2025-11-21 22:11:09,181 - \u26d4 Not a valid Git repository, skipping: J:\webapps\enlite\enlite\enlite
+2025-11-21 22:11:09,283 - 
+==============================
+2025-11-21 22:11:09,283 - \U0001f3c1 Completed scanning all drives
+
+2025-11-21 22:11:09,283 - ==============================
+
+2025-11-21 22:47:25,781 - 
+==============================
+2025-11-21 22:47:25,782 - \U0001f680 Starting Windows Git Auto Push
+2025-11-21 22:47:25,782 - ==============================
+2025-11-21 22:47:25,782 - 
+\U0001f50d Scanning drive: D:\
+2025-11-21 22:47:25,784 - 
+\u27a1\ufe0f Checking repository: D:\reactjs\nexus-admin
+2025-11-21 22:47:25,830 - \u26d4 Not a valid Git repository, skipping: D:\reactjs\nexus-admin
+2025-11-21 22:47:25,861 - 
+\u27a1\ufe0f Checking repository: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\allishan\Allishan
+2025-11-21 22:47:25,901 - \u26d4 Not a valid Git repository, skipping: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\allishan\Allishan
+2025-11-21 22:47:28,728 - 
+\u27a1\ufe0f Checking repository: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\api
+2025-11-21 22:47:28,808 - \u26d4 Not a valid Git repository, skipping: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\api
+2025-11-21 22:47:28,893 - 
+\u27a1\ufe0f Checking repository: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\EcomAPI
+2025-11-21 22:47:28,932 - \u26d4 Not a valid Git repository, skipping: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\EcomAPI
+2025-11-21 22:47:28,933 - 
+\u27a1\ufe0f Checking repository: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\enlite\enlite\enlite
+2025-11-21 22:47:28,971 - \u26d4 Not a valid Git repository, skipping: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\enlite\enlite\enlite
+2025-11-21 22:47:29,028 - 
+\u27a1\ufe0f Checking repository: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\filemanager-admin
+2025-11-21 22:47:29,082 - \u26d4 Not a valid Git repository, skipping: D:\Bitnami\wampstack-5.6.40-1\apache2\htdocs\filemanager-admin
+2025-11-21 22:47:29,482 - 
+\u27a1\ufe0f Checking repository: D:\HMS - Kolkata1
+2025-11-21 22:47:29,521 - \u26d4 Not a valid Git repository, skipping: D:\HMS - Kolkata1
+2025-11-21 22:47:29,850 - 
+\u27a1\ufe0f Checking repository: D:\EnLite\EnliteFinal
+2025-11-21 22:47:29,888 - \u26d4 Not a valid Git repository, skipping: D:\EnLite\EnliteFinal
+2025-11-21 22:47:29,889 - 
+\u27a1\ufe0f Checking repository: D:\EnLite\Enlite
+2025-11-21 22:47:29,928 - \u26d4 Not a valid Git repository, skipping: D:\EnLite\Enlite
+2025-11-21 22:47:29,929 - 
+\u27a1\ufe0f Checking repository: D:\EnLite\websync
+2025-11-21 22:47:29,971 - \u26d4 Not a valid Git repository, skipping: D:\EnLite\websync
+2025-11-21 22:47:30,557 - 
+\u27a1\ufe0f Checking repository: D:\androidprjs\Actronix
+2025-11-21 22:47:30,596 - \u26d4 Not a valid Git repository, skipping: D:\androidprjs\Actronix
+2025-11-21 22:47:30,742 - 
+\u27a1\ufe0f Checking repository: D:\androidprjs\NexusTrack
+2025-11-21 22:47:30,782 - \u26d4 Not a valid Git repository, skipping: D:\androidprjs\NexusTrack
+2025-11-21 22:47:30,971 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\ctkartsync
+2025-11-21 22:47:31,009 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\ctkartsync
+2025-11-21 22:47:31,032 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 22:47:31,073 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 22:47:31,074 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\Face-Detection
+2025-11-21 22:47:31,115 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\Face-Detection
+2025-11-21 22:47:31,115 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\Face-Detection2
+2025-11-21 22:47:31,158 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\Face-Detection2
+2025-11-21 22:47:31,332 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 22:47:31,371 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 22:47:31,482 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 22:47:31,520 - \u26d4 Not a valid Git repository, skipping: D:\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 22:47:31,575 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\LocaApiServerAccess
+2025-11-21 22:47:31,657 - \u2713 No changes found
+2025-11-21 22:47:31,657 - 
+\u27a1\ufe0f Checking repository: D:\Visual-Studio-Projects\ImageRecieverHost
+2025-11-21 22:47:31,739 - \U0001f4dd Changes found \u2192 committing...
+2025-11-21 22:47:31,816 - \u274c Git error in D:\Visual-Studio-Projects\ImageRecieverHost: Command '['git', 'add', '.']' returned non-zero exit status 128.
+2025-11-21 22:47:31,833 - 
+\u27a1\ufe0f Checking repository: D:\python\gstRPA\simple-captcha-solver
+2025-11-21 22:47:31,871 - \u26d4 Not a valid Git repository, skipping: D:\python\gstRPA\simple-captcha-solver
+2025-11-21 22:47:31,872 - 
+\u27a1\ufe0f Checking repository: D:\python\ocr_invoice_pipeline
+2025-11-21 22:47:31,911 - \u26d4 Not a valid Git repository, skipping: D:\python\ocr_invoice_pipeline
+2025-11-21 22:47:31,977 - 
+\u27a1\ufe0f Checking repository: D:\python\webcamview
+2025-11-21 22:47:32,016 - \u26d4 Not a valid Git repository, skipping: D:\python\webcamview
+2025-11-21 22:47:32,018 - 
+\u27a1\ufe0f Checking repository: D:\python\huging-face\model\surreal-ai-generator
+2025-11-21 22:47:32,101 - \u2713 No changes found
+2025-11-21 22:47:32,103 - 
+\u27a1\ufe0f Checking repository: D:\electron\nexus-admin
+2025-11-21 22:47:32,141 - \u26d4 Not a valid Git repository, skipping: D:\electron\nexus-admin
+2025-11-21 22:47:33,706 - 
+\U0001f50d Scanning drive: F:\
+2025-11-21 22:47:34,260 - 
+\U0001f50d Scanning drive: I:\
+2025-11-21 22:47:34,267 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\AdityaA1\A1SECURITY\abco
+2025-11-21 22:47:34,315 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\AdityaA1\A1SECURITY\abco
+2025-11-21 22:47:34,318 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline
+2025-11-21 22:47:34,360 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline
+2025-11-21 22:47:34,361 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline - Copy
+2025-11-21 22:47:34,404 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\AdityaA1\A1SecurityOnline - Copy
+2025-11-21 22:47:34,407 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Allishan
+2025-11-21 22:47:34,449 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Allishan
+2025-11-21 22:47:35,121 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\consornac\api\vendor\maatwebsite\excel
+2025-11-21 22:47:35,160 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\consornac\api\vendor\maatwebsite\excel
+2025-11-21 22:47:35,183 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\consornac\api\vendor\phpoffice\phpexcel
+2025-11-21 22:47:35,226 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\consornac\api\vendor\phpoffice\phpexcel
+2025-11-21 22:47:36,723 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\webapps\allishan\Allishan
+2025-11-21 22:47:36,768 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\webapps\allishan\Allishan
+2025-11-21 22:47:36,784 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\webapps\api
+2025-11-21 22:47:36,827 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\webapps\api
+2025-11-21 22:47:36,899 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\webapps\EcomAPI
+2025-11-21 22:47:36,941 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\webapps\EcomAPI
+2025-11-21 22:47:36,943 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\webapps\enlite\enlite\enlite
+2025-11-21 22:47:36,989 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\webapps\enlite\enlite\enlite
+2025-11-21 22:47:37,224 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\ctkartsync
+2025-11-21 22:47:37,262 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\ctkartsync
+2025-11-21 22:47:37,285 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 22:47:37,327 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\EnliteApiServer\AccessApiServer
+2025-11-21 22:47:37,328 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection
+2025-11-21 22:47:37,371 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection
+2025-11-21 22:47:37,372 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection2
+2025-11-21 22:47:37,411 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\Face-Detection2
+2025-11-21 22:47:37,581 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 22:47:37,619 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\kutuprojects\FaceRecognition
+2025-11-21 22:47:37,737 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 22:47:37,776 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Visual-Studio-Projects\WpfCameraAForge
+2025-11-21 22:47:37,781 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Enlite\Enlite
+2025-11-21 22:47:37,820 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Enlite\Enlite
+2025-11-21 22:47:37,821 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\Enlite\websync
+2025-11-21 22:47:37,861 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\Enlite\websync
+2025-11-21 22:47:37,880 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\HMS - Kolkata1
+2025-11-21 22:47:37,920 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\HMS - Kolkata1
+2025-11-21 22:47:37,969 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\python\gstRPA\simple-captcha-solver
+2025-11-21 22:47:38,010 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\python\gstRPA\simple-captcha-solver
+2025-11-21 22:47:38,010 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\python\ocr_invoice_pipeline
+2025-11-21 22:47:38,051 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\python\ocr_invoice_pipeline
+2025-11-21 22:47:38,116 - 
+\u27a1\ufe0f Checking repository: I:\desktop_D-drive(ssd)\python\webcamview
+2025-11-21 22:47:38,154 - \u26d4 Not a valid Git repository, skipping: I:\desktop_D-drive(ssd)\python\webcamview
